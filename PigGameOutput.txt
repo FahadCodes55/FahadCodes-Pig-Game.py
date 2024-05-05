@@ -1,0 +1,398 @@
+"C:\Program Files\Python312\python.exe" "C:\Users\HF\PycharmProjects\PIG Game\pig game.py" 
+-------------------------------
+ |Welcome to 'PIG' Dice Game!|
+-------------------------------
+
+		USER VS COMPUTER
+
+Enter the number of players: 2
+Let's start
+
+		USER: 
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER:                
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|    
+
+		 VS
+
+	  COMPUTER:                
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|    
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER: 
+ ___________________
+|                   |
+|    *          *   |
+|                   |
+|    *          *   |
+|___________________|   
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER:                
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|      *            |
+|                   |
+|          *        |
+|___________________|    
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER:                
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|    *          *   |
+|                   |
+|    *          *   |
+|___________________|   
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER:                
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|    *          *   |
+|                   |
+|    *          *   |
+|___________________|   
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER: 
+ ___________________
+|                   |
+|      *            |
+|                   |
+|          *        |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER: 
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER:                
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER:                
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER: 
+ ___________________
+|                   |
+|      *            |
+|                   |
+|          *        |
+|___________________|    
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+Do yo want to play again? (y/n): y
+Let start the game again
+
+		USER: 
+ ___________________
+|                   |
+|   *            *  |
+|   *            *  |
+|   *            *  |
+|___________________|   
+
+		 VS
+
+	  COMPUTER: 
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+
+User get 'SIX' so chance to second time roll the dice (y/n): y
+After new Scrolling to USER
+                
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|     
+
+		USER:
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+	 COMPUTER:
+ ___________________
+|                   |
+|   *            *  |
+|   *            *  |
+|   *            *  |
+|___________________|   
+Again play? (y/n): y
+		USER:
+ ___________________
+|                   |
+|    *          *   |
+|                   |
+|    *          *   |
+|___________________|   
+	 COMPUTER:
+ ___________________
+|                   |
+|  *             *  |
+|         *         |
+|  *             *  |
+|___________________|   
+Again play? (y/n): y
+		USER:
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+	 COMPUTER:               
+ ___________________
+|                   |
+|   *               |
+|         *         |
+|              *    |
+|___________________|    
+Again play? (y/n): y
+		USER:
+ ___________________
+|                   |
+|   *            *  |
+|   *            *  |
+|   *            *  |
+|___________________|   
+	 COMPUTER:
+ ___________________
+|                   |
+|                   |
+|         *         |
+|                   |
+|___________________|    
+Again play? (y/n): y
+Reach limit done
+User win with score 10
+
+ | THANKS FOR PLAYING THE GAME |
+
+Process finished with exit code 0
